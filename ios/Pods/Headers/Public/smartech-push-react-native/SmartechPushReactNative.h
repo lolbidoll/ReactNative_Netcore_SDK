@@ -1,0 +1,1 @@
+../../../../../node_modules/smartech-push-react-native/ios/SmartechPushReactNative.h

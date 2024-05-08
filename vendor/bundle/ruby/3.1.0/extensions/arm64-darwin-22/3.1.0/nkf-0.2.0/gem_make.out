@@ -1,0 +1,16 @@
+current directory: /Users/tanay.mitkari/_Work/Code/apps/reactNative/DemoApp/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+/Users/tanay.mitkari/.rbenv/versions/3.1.2/bin/ruby -I /Users/tanay.mitkari/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20240415-54846-5b0vdp.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tanay.mitkari/_Work/Code/apps/reactNative/DemoApp/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= clean
+
+current directory: /Users/tanay.mitkari/_Work/Code/apps/reactNative/DemoApp/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\=
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -multiply_defined is obsolete
+
+current directory: /Users/tanay.mitkari/_Work/Code/apps/reactNative/DemoApp/vendor/bundle/ruby/3.1.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240415-54846-21fmgs

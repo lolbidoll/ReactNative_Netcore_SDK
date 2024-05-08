@@ -1,0 +1,29 @@
+{
+  "name": "Smartech-ReactNative-Nudges",
+  "version": "1.0.20",
+  "summary": "This package contains bridges to integrate SmartechNudges native sdk in React Native App.",
+  "description": "Smartech-ReactNative-Nudges",
+  "homepage": "https://github.com/github_account/react-native-smartech-react-native-nudges",
+  "license": "MIT",
+  "authors": {
+    "Your Name": "yourname@email.com"
+  },
+  "platforms": {
+    "ios": "9.0",
+    "tvos": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/github_account/react-native-smartech-react-native-nudges.git",
+    "tag": "1.0.20"
+  },
+  "source_files": "ios/**/*.{h,m,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ],
+    "SmartechNudges": [
+      ">=8.6.0"
+    ]
+  }
+}

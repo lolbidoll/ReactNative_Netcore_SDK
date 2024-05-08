@@ -1,0 +1,24 @@
+{
+  "name": "smartech-base-react-native",
+  "version": "3.5.1",
+  "summary": "Smartech Base SDK's React Native Plugin For React Native Projects.",
+  "homepage": "https://github.com/NetcoreSolutions/Smartech-ReactNative-Modular#readme",
+  "license": "MIT",
+  "authors": "Netcore Solutions",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/NetcoreSolutions/Smartech-ReactNative-Modular.git",
+    "tag": "v3.5.1"
+  },
+  "source_files": "ios/**/*.{h,m,mm}",
+  "dependencies": {
+    "React-Core": [
+
+    ],
+    "Smartech-iOS-SDK": [
+      "~> 3.5.0"
+    ]
+  }
+}

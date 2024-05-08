@@ -1,0 +1,1 @@
+../../../../../node_modules/smartech-base-react-native/ios/SmartechRCTEventEmitter.h

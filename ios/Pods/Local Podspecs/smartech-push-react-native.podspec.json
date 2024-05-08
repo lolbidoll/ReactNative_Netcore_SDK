@@ -1,0 +1,24 @@
+{
+  "name": "smartech-push-react-native",
+  "version": "3.5.0",
+  "summary": "Smartech Push SDK's React Native Plugin For React Native Projects.",
+  "homepage": "https://github.com/NetcoreSolutions/smartech-push-react-native#readme",
+  "license": "MIT",
+  "authors": "NetcoreSolutions <shubham.mishra@netcorecloud.com> (https://github.com/NetcoreSolutions)",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/NetcoreSolutions/Smartech-ReactNative-Modular.git",
+    "tag": "3.5.0"
+  },
+  "source_files": "ios/**/*.{h,m,mm}",
+  "dependencies": {
+    "React-Core": [
+
+    ],
+    "SmartPush-iOS-SDK": [
+      "~> 3.5.0"
+    ]
+  }
+}
